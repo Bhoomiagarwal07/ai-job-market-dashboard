@@ -1,0 +1,19 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# Data (raw pulls — keep repo light, data.json sample is enough to demo)
+data/raw_jobs.json
+data/clean_jobs.json
+
+# OS
+.DS_Store

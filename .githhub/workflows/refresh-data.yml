@@ -1,0 +1,50 @@
+name: Refresh Job Market Data
+
+# Runs automatically every day, and lets you trigger it manually anytime
+# from the Actions tab on GitHub.
+on:
+  schedule:
+    - cron: "0 3 * * *"   # 3:00 AM UTC daily (~8:30 AM IST)
+  workflow_dispatch:        # adds a manual "Run workflow" button on GitHub
+
+permissions:
+  contents: write   # needed so the workflow can commit the refreshed data.json back
+
+jobs:
+  refresh-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install pipeline dependencies
+        working-directory: pipeline
+        run: pip install -r requirements.txt
+
+      - name: Fetch fresh postings
+        working-directory: pipeline
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python fetch_jobs.py
+
+      - name: Clean data
+        working-directory: pipeline
+        run: python clean_data.py
+
+      - name: Build dataset for dashboard
+        working-directory: pipeline
+        run: python build_dataset.py
+
+      - name: Commit updated data.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dashboard/public/data.json
+          git diff --staged --quiet || git commit -m "chore: auto-refresh job market data [skip ci]"
+          git push
