@@ -78,6 +78,7 @@ npm run dev
 Full setup, architecture notes, and "what I'd extend next" are in [`docs/DEVELOPMENT.md`](./docs/DEVELOPMENT.md).
 
 ## Screenshots
+<img width="1918" height="850" alt="image" src="https://github.com/user-attachments/assets/7ad390fd-89fb-427a-a8e4-37ca230ba63c" />
 
 
 
