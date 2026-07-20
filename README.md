@@ -2,7 +2,7 @@
 
 An interactive dashboard analyzing real AI/ML/GenAI job postings in India — skill demand, salary bands by experience level and city, GenAI skill momentum over time, and a personal "skill gap checker" that tells you what to learn next for a target role.
 
-**Live demo:** *(add your deployed link here after following the deploy steps below)*
+**Live demo:** https://ai-job-market-dashboard-six.vercel.app/
 
 ---
 
