@@ -16,6 +16,20 @@
   {
     "id": 1,
     "role": "AI Engineer",
+    "level": "Mid",
+    "city": "India",
+    "month": 5,
+    "salary": 25.0,
+    "skills": [
+      "Python"
+    ],
+    "title": "AI Engineer",
+    "company": "TheJobsMap",
+    "url": "https://www.adzuna.in/details/5718280326?utm_medium=api&utm_source=7f74c8e5"
+  },
+  {
+    "id": 2,
+    "role": "AI Engineer",
     "level": "Senior",
     "city": "Bangalore",
     "month": 7,
@@ -31,7 +45,7 @@
     "url": "https://www.adzuna.in/details/5808321083?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 2,
+    "id": 3,
     "role": "AI Engineer",
     "level": "Mid",
     "city": "Chennai",
@@ -45,7 +59,7 @@
     "url": "https://www.adzuna.in/details/5785588031?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 3,
+    "id": 4,
     "role": "AI Engineer",
     "level": "Mid",
     "city": "Mumbai",
@@ -59,7 +73,7 @@
     "url": "https://www.adzuna.in/details/5752934059?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 4,
+    "id": 5,
     "role": "AI Engineer",
     "level": "Mid",
     "city": "India",
@@ -74,7 +88,7 @@
     "url": "https://www.adzuna.in/details/5440535892?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 5,
+    "id": 6,
     "role": "AI Engineer",
     "level": "Senior",
     "city": "India",
@@ -89,7 +103,7 @@
     "url": "https://www.adzuna.in/details/5807478405?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 6,
+    "id": 7,
     "role": "AI Engineer",
     "level": "Mid",
     "city": "Bangalore",
@@ -104,7 +118,7 @@
     "url": "https://www.adzuna.in/details/5496729188?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 7,
+    "id": 8,
     "role": "AI Engineer",
     "level": "Mid",
     "city": "Pune",
@@ -119,7 +133,7 @@
     "url": "https://www.adzuna.in/details/5756865489?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 8,
+    "id": 9,
     "role": "AI Engineer",
     "level": "Mid",
     "city": "Bangalore",
@@ -133,7 +147,7 @@
     "url": "https://www.adzuna.in/details/5492760936?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 9,
+    "id": 10,
     "role": "AI Engineer",
     "level": "Mid",
     "city": "Chennai",
@@ -147,7 +161,7 @@
     "url": "https://www.adzuna.in/details/5136197762?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 10,
+    "id": 11,
     "role": "AI Engineer",
     "level": "Senior",
     "city": "Bangalore",
@@ -161,7 +175,7 @@
     "url": "https://www.adzuna.in/details/5540675684?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 11,
+    "id": 12,
     "role": "GenAI Engineer",
     "level": "Mid",
     "city": "India",
@@ -175,7 +189,7 @@
     "url": "https://www.adzuna.in/details/5314054003?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 12,
+    "id": 13,
     "role": "GenAI Engineer",
     "level": "Mid",
     "city": "Bangalore",
@@ -189,7 +203,7 @@
     "url": "https://www.adzuna.in/details/5813682784?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 13,
+    "id": 14,
     "role": "GenAI Engineer",
     "level": "Mid",
     "city": "Hyderabad",
@@ -206,7 +220,7 @@
     "url": "https://www.adzuna.in/details/5776016487?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 14,
+    "id": 15,
     "role": "GenAI Engineer",
     "level": "Senior",
     "city": "India",
@@ -221,7 +235,7 @@
     "url": "https://www.adzuna.in/details/5657222651?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 15,
+    "id": 16,
     "role": "GenAI Engineer",
     "level": "Mid",
     "city": "India",
@@ -237,7 +251,7 @@
     "url": "https://www.adzuna.in/details/5804952063?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 16,
+    "id": 17,
     "role": "GenAI Engineer",
     "level": "Mid",
     "city": "Gandhinagar",
@@ -251,7 +265,7 @@
     "url": "https://www.adzuna.in/details/4903624441?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 17,
+    "id": 18,
     "role": "GenAI Engineer",
     "level": "Senior",
     "city": "Chennai",
@@ -265,7 +279,7 @@
     "url": "https://www.adzuna.in/details/5342849401?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 18,
+    "id": 19,
     "role": "GenAI Engineer",
     "level": "Senior",
     "city": "India",
@@ -279,7 +293,7 @@
     "url": "https://www.adzuna.in/details/5447797248?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 19,
+    "id": 20,
     "role": "GenAI Engineer",
     "level": "Senior",
     "city": "Delhi NCR",
@@ -293,7 +307,7 @@
     "url": "https://www.adzuna.in/details/5816994956?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 20,
+    "id": 21,
     "role": "GenAI Engineer",
     "level": "Senior",
     "city": "India",
@@ -312,7 +326,7 @@
     "url": "https://www.adzuna.in/details/5200884518?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 21,
+    "id": 22,
     "role": "GenAI Engineer",
     "level": "Senior",
     "city": "India",
@@ -326,7 +340,7 @@
     "url": "https://www.adzuna.in/details/5804689233?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 22,
+    "id": 23,
     "role": "GenAI Engineer",
     "level": "Mid",
     "city": "Hyderabad",
@@ -338,21 +352,6 @@
     "title": "AIML Engineer_Generative AI",
     "company": "Virtue Software Technologies Pvt Ltd",
     "url": "https://www.adzuna.in/details/5656044165?utm_medium=api&utm_source=7f74c8e5"
-  },
-  {
-    "id": 23,
-    "role": "GenAI Engineer",
-    "level": "Senior",
-    "city": "Pune",
-    "month": 5,
-    "salary": 30.0,
-    "skills": [
-      "Python",
-      "RAG Pipelines"
-    ],
-    "title": "Senior Software Engineer - Generative AI",
-    "company": "Newtuple Technologies",
-    "url": "https://www.adzuna.in/details/5728920441?utm_medium=api&utm_source=7f74c8e5"
   },
   {
     "id": 24,
@@ -676,47 +675,16 @@
   },
   {
     "id": 46,
-    "role": "ML Engineer",
-    "level": "Mid",
-    "city": "Delhi NCR",
-    "month": 11,
-    "salary": 12.0,
-    "skills": [
-      "Statistics"
-    ],
-    "title": "Machine Learning Engineer",
-    "company": "SmartJoules",
-    "url": "https://www.adzuna.in/details/1844548865?utm_medium=api&utm_source=7f74c8e5"
-  },
-  {
-    "id": 47,
     "role": "Data Scientist",
     "level": "Mid",
-    "city": "India",
+    "city": "Bangalore",
     "month": 7,
-    "salary": 15.0,
+    "salary": 35.0,
     "skills": [
-      "Python",
-      "SQL",
-      "Statistics"
+      "Python"
     ],
     "title": "Data Scientist",
-    "company": "Durapid Technologies Pvt Ltd",
-    "url": "https://www.adzuna.in/details/5802024636?utm_medium=api&utm_source=7f74c8e5"
-  },
-  {
-    "id": 48,
-    "role": "Data Scientist",
-    "level": "Mid",
-    "city": "India",
-    "month": 7,
-    "salary": 60.0,
-    "skills": [
-      "Python",
-      "MLOps"
-    ],
-    "title": "Data Scientist",
-    "company": "Sparix Global.",
-    "url": "https://www.adzuna.in/details/5815607256?utm_medium=api&utm_source=7f74c8e5"
+    "company": "Trigent Software Private Limited",
+    "url": "https://www.adzuna.in/details/5818697955?utm_medium=api&utm_source=7f74c8e5"
   }
 ]
