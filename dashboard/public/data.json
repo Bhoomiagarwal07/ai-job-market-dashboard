@@ -593,5 +593,19 @@
     "title": "Machine Learning Engineer",
     "company": "Latent Bridge Pvt Ltd",
     "url": "https://www.adzuna.in/details/2833106061?utm_medium=api&utm_source=7f74c8e5"
+  },
+  {
+    "id": 40,
+    "role": "ML Engineer",
+    "level": "Mid",
+    "city": "Delhi NCR",
+    "month": 11,
+    "salary": 12.0,
+    "skills": [
+      "Statistics"
+    ],
+    "title": "Machine Learning Engineer",
+    "company": "SmartJoules",
+    "url": "https://www.adzuna.in/details/1844548865?utm_medium=api&utm_source=7f74c8e5"
   }
 ]
