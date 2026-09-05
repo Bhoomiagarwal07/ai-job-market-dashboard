@@ -338,5 +338,33 @@
     "title": "Machine Learning Engineer",
     "company": "AIMonk Labs Pvt Ltd",
     "url": "https://www.adzuna.in/details/4878673281?utm_medium=api&utm_source=7f74c8e5"
+  },
+  {
+    "id": 23,
+    "role": "ML Engineer",
+    "level": "Mid",
+    "city": "Chennai",
+    "month": 4,
+    "salary": 14.0,
+    "skills": [
+      "Python"
+    ],
+    "title": "Machine Learning Engineer",
+    "company": "DATASEE.AI, INC.",
+    "url": "https://www.adzuna.in/details/3044590237?utm_medium=api&utm_source=7f74c8e5"
+  },
+  {
+    "id": 24,
+    "role": "ML Engineer",
+    "level": "Mid",
+    "city": "Pune",
+    "month": 7,
+    "salary": 30.0,
+    "skills": [
+      "Python"
+    ],
+    "title": "Machine Learning Engineer",
+    "company": "InFoCusp",
+    "url": "https://www.adzuna.in/details/3332673255?utm_medium=api&utm_source=7f74c8e5"
   }
 ]
