@@ -271,20 +271,6 @@
     "id": 18,
     "role": "ML Engineer",
     "level": "Mid",
-    "city": "India",
-    "month": 5,
-    "salary": 15.0,
-    "skills": [
-      "Python"
-    ],
-    "title": "Machine learning engineer",
-    "company": "Sadup Softech",
-    "url": "https://www.adzuna.in/details/4676936483?utm_medium=api&utm_source=7f74c8e5"
-  },
-  {
-    "id": 19,
-    "role": "ML Engineer",
-    "level": "Mid",
     "city": "Bangalore",
     "month": 8,
     "salary": 35.0,
@@ -298,6 +284,20 @@
     "title": "Machine Learning Engineer",
     "company": "Potentiam",
     "url": "https://www.adzuna.in/details/5363133330?utm_medium=api&utm_source=7f74c8e5"
+  },
+  {
+    "id": 19,
+    "role": "ML Engineer",
+    "level": "Mid",
+    "city": "India",
+    "month": 5,
+    "salary": 15.0,
+    "skills": [
+      "Python"
+    ],
+    "title": "Machine learning engineer",
+    "company": "Sadup Softech",
+    "url": "https://www.adzuna.in/details/4676936483?utm_medium=api&utm_source=7f74c8e5"
   },
   {
     "id": 20,
