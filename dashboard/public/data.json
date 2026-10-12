@@ -533,14 +533,14 @@
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Delhi NCR",
-    "month": 5,
+    "month": 10,
     "salary": 10.0,
     "skills": [
       "Python"
     ],
     "title": "Machine Learning Engineer",
     "company": "Tradeindia.com - Infocom Network",
-    "url": "https://www.adzuna.in/details/1155088318?utm_medium=api&utm_source=7f74c8e5"
+    "url": "https://www.adzuna.in/details/5923289093?utm_medium=api&utm_source=7f74c8e5"
   },
   {
     "id": 37,
@@ -928,6 +928,20 @@
   {
     "id": 64,
     "role": "Data Scientist",
+    "level": "Mid",
+    "city": "Pune",
+    "month": 7,
+    "salary": 50.0,
+    "skills": [
+      "Python"
+    ],
+    "title": "Data Scientist",
+    "company": "Kavayah People Consulting",
+    "url": "https://www.adzuna.in/details/2349832292?utm_medium=api&utm_source=7f74c8e5"
+  },
+  {
+    "id": 65,
+    "role": "Data Scientist",
     "level": "Senior",
     "city": "Pune",
     "month": 2,
@@ -939,20 +953,6 @@
     "title": "Data Scientist",
     "company": "Symansys Technologies India Pvt Ltd",
     "url": "https://www.adzuna.in/details/2927156051?utm_medium=api&utm_source=7f74c8e5"
-  },
-  {
-    "id": 65,
-    "role": "Data Scientist",
-    "level": "Mid",
-    "city": "Pune",
-    "month": 7,
-    "salary": 50.0,
-    "skills": [
-      "Python"
-    ],
-    "title": "Data Scientist",
-    "company": "Kavayah People Consulting",
-    "url": "https://www.adzuna.in/details/2349832292?utm_medium=api&utm_source=7f74c8e5"
   },
   {
     "id": 66,
@@ -1027,5 +1027,19 @@
     "title": "Data Scientist",
     "company": "VY SYSTEMS PRIVATE LIMITED",
     "url": "https://www.adzuna.in/details/5905444031?utm_medium=api&utm_source=7f74c8e5"
+  },
+  {
+    "id": 71,
+    "role": "Data Scientist",
+    "level": "Senior",
+    "city": "Bangalore",
+    "month": 9,
+    "salary": 15.0,
+    "skills": [
+      "Python"
+    ],
+    "title": "Data Scientist",
+    "company": "NAM Info Pvt Ltd",
+    "url": "https://www.adzuna.in/details/5879546648?utm_medium=api&utm_source=7f74c8e5"
   }
 ]
