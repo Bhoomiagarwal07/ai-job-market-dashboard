@@ -328,6 +328,21 @@
     "id": 22,
     "role": "GenAI Engineer",
     "level": "Senior",
+    "city": "India",
+    "month": 11,
+    "salary": 7.8,
+    "skills": [
+      "Python",
+      "Cloud (AWS/GCP/Azure)"
+    ],
+    "title": "Senior AI Engineer \u2013 AI/ML & Generative AI",
+    "company": "Sparix Global.",
+    "url": "https://www.adzuna.in/details/5952066569?utm_medium=api&utm_source=7f74c8e5"
+  },
+  {
+    "id": 23,
+    "role": "GenAI Engineer",
+    "level": "Senior",
     "city": "Pune",
     "month": 5,
     "salary": 30.0,
@@ -340,7 +355,7 @@
     "url": "https://www.adzuna.in/details/5728920441?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 23,
+    "id": 24,
     "role": "GenAI Engineer",
     "level": "Mid",
     "city": "India",
@@ -354,7 +369,7 @@
     "url": "https://www.adzuna.in/details/5832966568?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 24,
+    "id": 25,
     "role": "GenAI Engineer",
     "level": "Senior",
     "city": "Bangalore",
@@ -370,68 +385,7 @@
     "url": "https://www.adzuna.in/details/5927319629?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 25,
-    "role": "GenAI Engineer",
-    "level": "Mid",
-    "city": "Hyderabad",
-    "month": 9,
-    "salary": 14.0,
-    "skills": [
-      "Python",
-      "LangChain",
-      "RAG Pipelines",
-      "Vector Databases",
-      "Agentic AI / LangGraph"
-    ],
-    "title": "Python Agentic AI Engineer",
-    "company": "VY SYSTEMS PRIVATE LIMITED",
-    "url": "https://www.adzuna.in/details/5899555576?utm_medium=api&utm_source=7f74c8e5"
-  },
-  {
     "id": 26,
-    "role": "GenAI Engineer",
-    "level": "Mid",
-    "city": "Bangalore",
-    "month": 10,
-    "salary": 23.0,
-    "skills": [
-      "Python"
-    ],
-    "title": "Gen AI Engineer",
-    "company": "VY SYSTEMS PRIVATE LIMITED",
-    "url": "https://www.adzuna.in/details/5918817294?utm_medium=api&utm_source=7f74c8e5"
-  },
-  {
-    "id": 27,
-    "role": "GenAI Engineer",
-    "level": "Mid",
-    "city": "Udaipur",
-    "month": 10,
-    "salary": 9.0,
-    "skills": [
-      "RAG Pipelines"
-    ],
-    "title": "Generative AI Developer",
-    "company": "PixelPhant",
-    "url": "https://www.adzuna.in/details/4370744809?utm_medium=api&utm_source=7f74c8e5"
-  },
-  {
-    "id": 28,
-    "role": "GenAI Engineer",
-    "level": "Mid",
-    "city": "Pune",
-    "month": 6,
-    "salary": 21.0,
-    "skills": [
-      "Python",
-      "RAG Pipelines"
-    ],
-    "title": "Data Scientist / AI Engineer (Python, ML, RAG)",
-    "company": "Staffnixcom",
-    "url": "https://www.adzuna.in/details/5748897437?utm_medium=api&utm_source=7f74c8e5"
-  },
-  {
-    "id": 29,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Delhi NCR",
@@ -447,7 +401,7 @@
     "url": "https://www.adzuna.in/details/3175702626?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 30,
+    "id": 27,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Bangalore",
@@ -461,7 +415,7 @@
     "url": "https://www.adzuna.in/details/4514376236?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 31,
+    "id": 28,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Bangalore",
@@ -475,7 +429,7 @@
     "url": "https://www.adzuna.in/details/3987216053?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 32,
+    "id": 29,
     "role": "ML Engineer",
     "level": "Senior",
     "city": "Pune",
@@ -489,7 +443,7 @@
     "url": "https://www.adzuna.in/details/5916869366?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 33,
+    "id": 30,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Chennai",
@@ -503,35 +457,7 @@
     "url": "https://www.adzuna.in/details/4708090721?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 34,
-    "role": "ML Engineer",
-    "level": "Fresher",
-    "city": "India",
-    "month": 9,
-    "salary": 6.0,
-    "skills": [
-      "Python"
-    ],
-    "title": "Machine Learning Engineer",
-    "company": "MedTourEasy",
-    "url": "https://www.adzuna.in/details/5889544216?utm_medium=api&utm_source=7f74c8e5"
-  },
-  {
-    "id": 35,
-    "role": "ML Engineer",
-    "level": "Mid",
-    "city": "India",
-    "month": 5,
-    "salary": 15.0,
-    "skills": [
-      "Python"
-    ],
-    "title": "Machine learning engineer",
-    "company": "Sadup Softech",
-    "url": "https://www.adzuna.in/details/4676936483?utm_medium=api&utm_source=7f74c8e5"
-  },
-  {
-    "id": 36,
+    "id": 31,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Bangalore",
@@ -549,7 +475,21 @@
     "url": "https://www.adzuna.in/details/5916889704?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 37,
+    "id": 32,
+    "role": "ML Engineer",
+    "level": "Mid",
+    "city": "India",
+    "month": 5,
+    "salary": 15.0,
+    "skills": [
+      "Python"
+    ],
+    "title": "Machine learning engineer",
+    "company": "Sadup Softech",
+    "url": "https://www.adzuna.in/details/4676936483?utm_medium=api&utm_source=7f74c8e5"
+  },
+  {
+    "id": 33,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Bangalore",
@@ -565,7 +505,7 @@
     "url": "https://www.adzuna.in/details/3949356918?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 38,
+    "id": 34,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Bangalore",
@@ -579,7 +519,7 @@
     "url": "https://www.adzuna.in/details/5819656955?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 39,
+    "id": 35,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Delhi NCR",
@@ -593,7 +533,7 @@
     "url": "https://www.adzuna.in/details/5923289093?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 40,
+    "id": 36,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Mumbai",
@@ -607,7 +547,7 @@
     "url": "https://www.adzuna.in/details/1171507734?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 41,
+    "id": 37,
     "role": "ML Engineer",
     "level": "Senior",
     "city": "Hyderabad",
@@ -621,7 +561,7 @@
     "url": "https://www.adzuna.in/details/5916908986?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 42,
+    "id": 38,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "India",
@@ -635,7 +575,7 @@
     "url": "https://www.adzuna.in/details/4878673281?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 43,
+    "id": 39,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Chennai",
@@ -649,7 +589,7 @@
     "url": "https://www.adzuna.in/details/3044590237?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 44,
+    "id": 40,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Pune",
@@ -663,7 +603,7 @@
     "url": "https://www.adzuna.in/details/3332673255?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 45,
+    "id": 41,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "India",
@@ -677,7 +617,7 @@
     "url": "https://www.adzuna.in/details/5788472875?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 46,
+    "id": 42,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "India",
@@ -691,7 +631,7 @@
     "url": "https://www.adzuna.in/details/5918845043?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 47,
+    "id": 43,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "India",
@@ -705,7 +645,7 @@
     "url": "https://www.adzuna.in/details/5918845469?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 48,
+    "id": 44,
     "role": "ML Engineer",
     "level": "Senior",
     "city": "Bangalore",
@@ -719,7 +659,7 @@
     "url": "https://www.adzuna.in/details/2549478979?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 49,
+    "id": 45,
     "role": "ML Engineer",
     "level": "Senior",
     "city": "India",
@@ -737,7 +677,7 @@
     "url": "https://www.adzuna.in/details/5625766940?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 50,
+    "id": 46,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Mumbai",
@@ -751,7 +691,7 @@
     "url": "https://www.adzuna.in/details/1398819281?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 51,
+    "id": 47,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "India",
@@ -765,7 +705,7 @@
     "url": "https://www.adzuna.in/details/2833106061?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 52,
+    "id": 48,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Delhi NCR",
@@ -779,7 +719,7 @@
     "url": "https://www.adzuna.in/details/1844548865?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 53,
+    "id": 49,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Bangalore",
@@ -793,7 +733,7 @@
     "url": "https://www.adzuna.in/details/2042125548?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 54,
+    "id": 50,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Bangalore",
@@ -807,7 +747,7 @@
     "url": "https://www.adzuna.in/details/2177266537?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 55,
+    "id": 51,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Bangalore",
@@ -821,7 +761,7 @@
     "url": "https://www.adzuna.in/details/1171508972?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 56,
+    "id": 52,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Mumbai",
@@ -835,7 +775,7 @@
     "url": "https://www.adzuna.in/details/4559411206?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 57,
+    "id": 53,
     "role": "ML Engineer",
     "level": "Senior",
     "city": "Mumbai",
@@ -849,7 +789,7 @@
     "url": "https://www.adzuna.in/details/4596884479?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 58,
+    "id": 54,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Chennai",
@@ -863,7 +803,7 @@
     "url": "https://www.adzuna.in/details/4493479601?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 59,
+    "id": 55,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "India",
@@ -877,7 +817,7 @@
     "url": "https://www.adzuna.in/details/3038221909?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 60,
+    "id": 56,
     "role": "ML Engineer",
     "level": "Mid",
     "city": "Mumbai",
@@ -892,21 +832,23 @@
     "url": "https://www.adzuna.in/details/1368669287?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 61,
-    "role": "Data Scientist",
+    "id": 57,
+    "role": "ML Engineer",
     "level": "Mid",
-    "city": "Coimbatore",
-    "month": 10,
+    "city": "Hyderabad",
+    "month": 1,
     "salary": 35.0,
     "skills": [
-      "Python"
+      "Python",
+      "Scikit-learn",
+      "Pandas"
     ],
-    "title": "Data Scientist",
-    "company": "Talentien Global Solutions",
-    "url": "https://www.adzuna.in/details/5931461629?utm_medium=api&utm_source=7f74c8e5"
+    "title": "Machine Learning Engineer",
+    "company": "FlexAbility",
+    "url": "https://www.adzuna.in/details/1958165136?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 62,
+    "id": 58,
     "role": "Data Scientist",
     "level": "Senior",
     "city": "India",
@@ -920,7 +862,7 @@
     "url": "https://www.adzuna.in/details/5902287079?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 63,
+    "id": 59,
     "role": "Data Scientist",
     "level": "Mid",
     "city": "Bangalore",
@@ -934,5 +876,19 @@
     "title": "Data Scientist",
     "company": "Trigent Software Private Limited",
     "url": "https://www.adzuna.in/details/5944849809?utm_medium=api&utm_source=7f74c8e5"
+  },
+  {
+    "id": 60,
+    "role": "Data Scientist",
+    "level": "Mid",
+    "city": "Pune",
+    "month": 10,
+    "salary": 16.0,
+    "skills": [
+      "Python"
+    ],
+    "title": "Data Scientist",
+    "company": "Jash Data Sciences Pvt Ltd",
+    "url": "https://www.adzuna.in/details/5916866370?utm_medium=api&utm_source=7f74c8e5"
   }
 ]
