@@ -819,6 +819,22 @@
   },
   {
     "id": 56,
+    "role": "ML Engineer",
+    "level": "Mid",
+    "city": "Hyderabad",
+    "month": 1,
+    "salary": 35.0,
+    "skills": [
+      "Python",
+      "Scikit-learn",
+      "Pandas"
+    ],
+    "title": "Machine Learning Engineer",
+    "company": "FlexAbility",
+    "url": "https://www.adzuna.in/details/1958165136?utm_medium=api&utm_source=7f74c8e5"
+  },
+  {
+    "id": 57,
     "role": "Data Scientist",
     "level": "Senior",
     "city": "India",
@@ -832,7 +848,7 @@
     "url": "https://www.adzuna.in/details/5902287079?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 57,
+    "id": 58,
     "role": "Data Scientist",
     "level": "Mid",
     "city": "India",
@@ -846,7 +862,7 @@
     "url": "https://www.adzuna.in/details/5977570759?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 58,
+    "id": 59,
     "role": "Data Scientist",
     "level": "Senior",
     "city": "Coimbatore",
@@ -860,7 +876,7 @@
     "url": "https://www.adzuna.in/details/5962476667?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 59,
+    "id": 60,
     "role": "Data Scientist",
     "level": "Senior",
     "city": "Bangalore",
@@ -876,7 +892,7 @@
     "url": "https://www.adzuna.in/details/5976364638?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 60,
+    "id": 61,
     "role": "Data Scientist",
     "level": "Mid",
     "city": "Pune",
@@ -890,7 +906,7 @@
     "url": "https://www.adzuna.in/details/5916866370?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 61,
+    "id": 62,
     "role": "Data Scientist",
     "level": "Mid",
     "city": "Mumbai",
@@ -904,7 +920,7 @@
     "url": "https://www.adzuna.in/details/4803838914?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 62,
+    "id": 63,
     "role": "Data Scientist",
     "level": "Senior",
     "city": "Bangalore",
@@ -918,7 +934,7 @@
     "url": "https://www.adzuna.in/details/4493479600?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 63,
+    "id": 64,
     "role": "Data Scientist",
     "level": "Senior",
     "city": "Bangalore",
@@ -932,7 +948,7 @@
     "url": "https://www.adzuna.in/details/2318122072?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 64,
+    "id": 65,
     "role": "Data Scientist",
     "level": "Mid",
     "city": "India",
@@ -946,7 +962,7 @@
     "url": "https://www.adzuna.in/details/5120471599?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 65,
+    "id": 66,
     "role": "Data Scientist",
     "level": "Senior",
     "city": "Bangalore",
@@ -960,7 +976,7 @@
     "url": "https://www.adzuna.in/details/5970285569?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 66,
+    "id": 67,
     "role": "Data Scientist",
     "level": "Senior",
     "city": "India",
@@ -975,7 +991,7 @@
     "url": "https://www.adzuna.in/details/2461074337?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 67,
+    "id": 68,
     "role": "Data Scientist",
     "level": "Mid",
     "city": "Pune",
@@ -989,7 +1005,7 @@
     "url": "https://www.adzuna.in/details/2349832292?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 68,
+    "id": 69,
     "role": "Data Scientist",
     "level": "Senior",
     "city": "Pune",
@@ -1004,7 +1020,7 @@
     "url": "https://www.adzuna.in/details/2927156051?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 69,
+    "id": 70,
     "role": "Data Scientist",
     "level": "Mid",
     "city": "Bangalore",
@@ -1018,7 +1034,7 @@
     "url": "https://www.adzuna.in/details/2536790415?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 70,
+    "id": 71,
     "role": "Data Scientist",
     "level": "Mid",
     "city": "Delhi NCR",
@@ -1032,7 +1048,7 @@
     "url": "https://www.adzuna.in/details/5890494566?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 71,
+    "id": 72,
     "role": "Data Scientist",
     "level": "Mid",
     "city": "Bangalore",
@@ -1046,7 +1062,7 @@
     "url": "https://www.adzuna.in/details/2992079462?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 72,
+    "id": 73,
     "role": "Data Scientist",
     "level": "Senior",
     "city": "Hyderabad",
@@ -1060,7 +1076,7 @@
     "url": "https://www.adzuna.in/details/5255506987?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 73,
+    "id": 74,
     "role": "Data Scientist",
     "level": "Mid",
     "city": "Bangalore",
@@ -1078,7 +1094,7 @@
     "url": "https://www.adzuna.in/details/5905444031?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 74,
+    "id": 75,
     "role": "Data Scientist",
     "level": "Senior",
     "city": "Bangalore",
@@ -1092,7 +1108,7 @@
     "url": "https://www.adzuna.in/details/5944445238?utm_medium=api&utm_source=7f74c8e5"
   },
   {
-    "id": 75,
+    "id": 76,
     "role": "Data Scientist",
     "level": "Mid",
     "city": "Delhi NCR",
@@ -1104,21 +1120,6 @@
     "title": "Data Scientist",
     "company": "Econolytics",
     "url": "https://www.adzuna.in/details/5925676284?utm_medium=api&utm_source=7f74c8e5"
-  },
-  {
-    "id": 76,
-    "role": "Data Scientist",
-    "level": "Mid",
-    "city": "Hyderabad",
-    "month": 12,
-    "salary": 3.0,
-    "skills": [
-      "Python",
-      "Git"
-    ],
-    "title": "Data scientist",
-    "company": "SocialPrachar.com",
-    "url": "https://www.adzuna.in/details/2773784069?utm_medium=api&utm_source=7f74c8e5"
   },
   {
     "id": 77,
@@ -1133,5 +1134,20 @@
     "title": "Data Scientist",
     "company": "Hashone careers",
     "url": "https://www.adzuna.in/details/5404307320?utm_medium=api&utm_source=7f74c8e5"
+  },
+  {
+    "id": 78,
+    "role": "Data Scientist",
+    "level": "Mid",
+    "city": "Hyderabad",
+    "month": 12,
+    "salary": 3.0,
+    "skills": [
+      "Python",
+      "Git"
+    ],
+    "title": "Data scientist",
+    "company": "SocialPrachar.com",
+    "url": "https://www.adzuna.in/details/2773784069?utm_medium=api&utm_source=7f74c8e5"
   }
 ]
